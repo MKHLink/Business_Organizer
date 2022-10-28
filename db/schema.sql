@@ -22,5 +22,5 @@ create table employee(
     role_id integer,
     manager_id integer DEFAULT NULL,
     constraint manager_fk foreign key (manager_id) references employee(id),
-    constraint fk_role foreign key (role_id) references role(id)
+    constraint fk_role foreign key (role_id) references role(id) 
 );
