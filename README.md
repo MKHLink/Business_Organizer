@@ -34,7 +34,7 @@ Used to maintain depratments, roles and employees in a small business and keep t
 https://drive.google.com/file/d/1u6yxuuWFujibOQ8G-acbbs_23Ux0UN3B/view
 
 ## Contribution
-Mohammad Komol Hasan
+Linkhon Hasan
 
 ## Tests
 N/A
